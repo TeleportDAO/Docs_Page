@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhot_gate_docs=self.webpackChunkhot_gate_docs||[]).push([[5550],{1371:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/bridge","name":"Bridge","count":1,"permalink":"/blog/tags/bridge"}')}}]);

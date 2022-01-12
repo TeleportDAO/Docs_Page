@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhot_gate_docs=self.webpackChunkhot_gate_docs||[]).push([[3061],{7409:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/cross-chain","name":"Cross-chain","count":1,"permalink":"/blog/tags/cross-chain"}')}}]);

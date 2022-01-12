@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhot_gate_docs=self.webpackChunkhot_gate_docs||[]).push([[8878],{5186:function(t){t.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/hot-gate","name":"HotGate","count":1,"permalink":"/blog/tags/hot-gate"}')}}]);
