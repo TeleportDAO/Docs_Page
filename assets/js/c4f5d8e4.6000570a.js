@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhot_gate_docs=self.webpackChunkhot_gate_docs||[]).push([[195],{2841:function(t,e,n){n.r(e),n.d(e,{default:function(){return u}});var c=n(7294),o=n(5977);function u(){return c.createElement(o.l_,{to:"/whitepaper-docs/introduction"})}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhot_gate_docs=self.webpackChunkhot_gate_docs||[]).push([[477],{10:function(s){s.exports={blogPosts:[]}}}]);
